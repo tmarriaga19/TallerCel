@@ -17,4 +17,11 @@ public class datos {
     public static ArrayList<celular> obtener(){
         return celulares;
     }
+
+
+    public static int NumApple(){
+        
+    }
+
+
 }

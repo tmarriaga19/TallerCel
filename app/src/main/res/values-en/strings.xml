@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TallerCel</string>
+    <string name="registrar">To register</string>
+    <string name="listar">" To list"</string>
+    <string name="reporte4">" Report 4"</string>
+    <string name="reporte5">" Report 5"</string>
+    <string name="marca">"Brand "</string>
+    <string name="color">Color</string>
+    <string name="precio">Price</string>
+    <string name="guardar">" Save"</string>
+    <string name="borrar">Delete</string>
+    <string name="marca1">Apple</string>
+    <string name="marca2">Samsung</string>
+    <string name="marca3">Huawei</string>
+    <string name="marca4">Nokia</string>
+    <string name="marca5">Motorola</string>
+    <string name="color1">Black</string>
+    <string name="color2">White</string>
+    <string name="color3">Golden</string>
+    <string name="color4">Silver</string>
+    <string name="color5">Gray</string>
+    <string name="error_numero1">Enter a valid value</string>
+    <string name="error_numero2">"Option not valid "</string>
+    <string name="mensaje_guardado">Cell saved successfully</string>
+    <string name="listadocel">List of Cell Phones</string>
+    <string name="numero">No</string>
+</resources>

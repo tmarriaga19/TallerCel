@@ -53,5 +53,7 @@
     <string name="error_numero1">Digite un valor valido</string>
     <string name="error_numero2">Opcion no valida</string>
     <string name="mensaje_guardado">Celular guardado exitosamente</string>
+    <string name="listadocel">Listado Celulares</string>
+    <string name="numero">No</string>
 
 </resources>
