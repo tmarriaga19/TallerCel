@@ -1,3 +1,57 @@
 <resources>
     <string name="app_name">TallerCel</string>
+
+    <string name="registrar">Registrar</string>
+    <string name="listar">Listar</string>
+    <string name="reporte4">Reporte 4</string>
+    <string name="reporte5">Reporte 5</string>
+    <string name="marca">Marca</string>
+    <string name="color">Color</string>
+    <string name="precio">Precio</string>
+    <string name="guardar">Guardar</string>
+    <string name="borrar">Borrar</string>
+
+    <string name="marca0"></string>
+    <string name="marca1">Apple</string>
+    <string name="marca2">Samsung</string>
+    <string name="marca3">Huawei</string>
+    <string name="marca4">Nokia</string>
+    <string name="marca5">Motorola</string>
+
+    <string-array name="listamarca">
+        <item>@string/marca0</item>
+        <item>@string/marca1</item>
+        <item>@string/marca2</item>
+        <item>@string/marca3</item>
+        <item>@string/marca4</item>
+        <item>@string/marca5</item>
+    </string-array>
+
+    <string name="color0"></string>
+    <string name="color1">Negro</string>
+    <string name="color2">Blanco</string>
+    <string name="color3">Dorado</string>
+    <string name="color4">Plata</string>
+    <string name="color5">Gris</string>
+
+    <string-array name="listacolor">
+        <item>@string/color0</item>
+        <item>@string/color1</item>
+        <item>@string/color2</item>
+        <item>@string/color3</item>
+        <item>@string/color4</item>
+        <item>@string/color5</item>
+    </string-array>
+
+    <string-array name="opciones">
+        <item>@string/registrar</item>
+        <item>@string/listar</item>
+        <item>@string/reporte4</item>
+        <item>@string/reporte5</item>
+    </string-array>
+
+    <string name="error_numero1">Digite un valor valido</string>
+    <string name="error_numero2">Opcion no valida</string>
+    <string name="mensaje_guardado">Celular guardado exitosamente</string>
+
 </resources>
