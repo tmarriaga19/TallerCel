@@ -25,4 +25,6 @@
     <string name="mensaje_guardado">Cell saved successfully</string>
     <string name="listadocel">List of Cell Phones</string>
     <string name="numero">No</string>
+    <string name="mensaje_r4">The Black color Apple cell phones are:</string>
+    <string name="mensaje_r5">The Nokia mobile average is:</string>
 </resources>

@@ -55,5 +55,9 @@
     <string name="mensaje_guardado">Celular guardado exitosamente</string>
     <string name="listadocel">Listado Celulares</string>
     <string name="numero">No</string>
+    <string name="mensaje_r4">"Los celulares Apple de color Negro son: "</string>
+    <string name="mensaje_r5">"El promedio de celulares nokia es: "</string>
+
+
 
 </resources>

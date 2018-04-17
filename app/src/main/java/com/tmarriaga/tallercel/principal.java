@@ -7,6 +7,7 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+import android.widget.Toast;
 
 public class principal extends AppCompatActivity {
 
@@ -37,12 +38,12 @@ public class principal extends AppCompatActivity {
                         startActivity(in);
                         break;
                     case 2:
-                        in = new Intent(principal.this,listado.class);
-                        startActivity(in);
+                        String rep4 =getResources().getString(R.string.mensaje_r4)+String.valueOf(datos.NumApple());
+                        Toast.makeText(getApplicationContext(),rep4,Toast.LENGTH_SHORT).show();
                         break;
                     case 3:
-                        in = new Intent(principal.this,listado.class);
-                        startActivity(in);
+                        String rep5 =getResources().getString(R.string.mensaje_r5)+String.valueOf(datos.PromedioNokia());
+                        Toast.makeText(getApplicationContext(),rep5,Toast.LENGTH_SHORT).show();
                         break;
                 }
             }
